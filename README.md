@@ -33,21 +33,20 @@ The project demonstrated a significant leap in classification performance with V
 
 1. Set Up Environment:
 
-\`\`\`bash  
+```bash
 It's recommended to use a virtual environment.  
 conda create \-n dr\_env python=3.9  
 conda activate dr\_env  
 \# or  
 python \-m venv dr\_env  
 source dr\_env/bin/activate  
-\`\`\`
+```
 
 2. **Install Dependencies:**
 
-\`\`\`bash  
+```bash
 pip install \-r requirements.txt
-
-\`\`\`
+```
 
 *(Note: A requirements.txt file is typical for listing all Python dependencies.)*
 
